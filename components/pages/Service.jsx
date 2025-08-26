@@ -76,7 +76,7 @@ export default function Service() {
       {/* Sticky Heading */}
       <div className="sticky top-0 bg-gray-100 py-4 z-20">
         <h4 className="text-center text-3xl font-bold text-gray-800">
-          OUR <span className="text-[#00B0C0]">SERVICES</span>
+          OUR<span className="text-[#00B0C0]">SERVICES</span>
         </h4>
       </div>
 
